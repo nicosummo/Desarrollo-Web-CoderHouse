@@ -1,0 +1,46 @@
+.logo_foto{
+    width: 80px;
+}
+
+.background{
+    background-image: linear-gradient(rgb(171, 212, 171),rgb(0, 138, 0),rgb(0, 59, 0),rgb(0, 46, 0));
+}
+.header-padding{
+    padding-bottom: 2%;
+    padding-top: 0.5%;
+}
+.title-padding{
+    padding-top: 4%;
+}
+
+.carrusel_size{
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    width: auto;
+    height: auto;
+}
+.buttom_group{
+    height: 50px;
+    padding-top: 3%;
+}
+
+.dark_theme{
+    padding-top: 3%;
+}
+
+.menu_header{
+    display: flex;
+    flex-direction: row;
+}
+
+.menu_header li{
+    list-style: none;
+    padding: 10px;
+}
+
+.menu_header li a{
+    color: black;
+    text-decoration: none;
+}
